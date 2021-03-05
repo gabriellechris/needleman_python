@@ -1,0 +1,5 @@
+A brief explanation about needleman-wunsch algorithm :
+
+It is an algorithm to align protein or necleotice sequences by searching the optimal match by using scores. It assigns score to the possible alginments and picking the highest score.
+
+This program is coded by using python.
